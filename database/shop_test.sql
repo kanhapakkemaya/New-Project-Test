@@ -3,13 +3,13 @@
 
  Source Server         : Mysql Server Test
  Source Server Type    : MySQL
- Source Server Version : 100411
- Source Host           : 10.0.1.32:3306
- Source Schema         : ss_scs
+ Source Server Version : 
+ Source Host           : 
+ Source Schema         : 
 
- Target Server Type    : MySQL
- Target Server Version : 100411
- File Encoding         : 65001
+ Target Server Type    : 
+ Target Server Version : 
+ File Encoding         : 
 
  Date: 07/12/2020 00:03:19
 */
